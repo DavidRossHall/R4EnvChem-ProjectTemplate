@@ -1,0 +1,61 @@
+---
+title: "R4EnvChem Project Template" # replace with your title
+author: "John Q. Public"            # replace with your name
+date: "14/07/2021"                  # replace with the correct date
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# These are the global knitr options.
+knitr::opts_chunk$set(echo = TRUE,     # by default code will be printed out 
+                      message = FALSE, # by default messages are suppressed
+                      warning = FALSE) # by default warnings are suppressed
+```
+
+# Background
+
+This is an example rmarkdown document you can use to complete the [*R4EnvChem* Tutorial](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html). It showcases some important `rmarkdown` features. Assuming you've downloaded the entire *R4EnvChem* project template, and downloaded the packages listed in [Section 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html), it should work out of the box.
+
+
+
+
+
+# 
+
+
+
+![Glorious downtown Toronto in the summertime.](images/DHall_TorontoPano.jpg){width=20%, height=20%}
+
+## Importing data
+
+```{r}
+library(tidyverse)
+
+airData <- read_csv(file = "data/2018-07-01_60430_Toronto_ON.csv")
+head(airData)
+```
+
+
+## Visualizing data
+
+```{r, fig.cap="Time series plot of ambiant airborn pollutant concentrations measured by downtown Toronto NAPS station 60430"}
+
+ggplot(data = airData, 
+       aes(x = date.time, 
+           y = concentration, 
+           colour = pollutant)) +
+  geom_line()
+
+```
+
+```{r}
+
+# Try and make another type of visualization with your data (i.e. box plot, violin plot)
+# or enhance the default geom_line plot (i.e. marginal histograms, aesthetic changes)
+
+
+
+```
+
+
+

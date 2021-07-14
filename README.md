@@ -4,7 +4,7 @@ This repo hosts documents/files related to the (R4EnvChem)[https://davidrosshall
 
 ## Instructions for downloading template: 
 
-Click the green `code` button, and select *Download Zip* to download the entire repository (code, documents, files, and images). Once downloaded, unpack the `zip` file (instructions for (Windows)[https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5] and (Apple)[https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac]). 
+Click the green `code` button, and select *Download Zip* to download the entire repository (code, documents, files, and images). Once downloaded, unpack the `zip` file (instructions for [Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5) and [Apple](https://support.apple.com/en-ca/guide/mac-help/mchlp2528/mac)). 
 
 ## Opening project
 

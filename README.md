@@ -8,5 +8,9 @@ Click the green `code` button, and select *Download Zip* to download the entire 
 
 ## Opening project
 
-Open the `R4EnvChem-ProjectTemplate.Rpro` in *RStudio*; you should see *R4EnvChem-ProjectTemplate* in the top right corver of *RStudio* indicating you're working in the correct *RStudio* project. Once setup, follow the instructiosn to complete the tutorial and have a working rmarkdown file/project you can use for every subsequent project you have. 
+From the template folder you've just unpacked, open the `R4EnvChem-ProjectTemplate.Rproj` file in *RStudio*; you should see *R4EnvChem-ProjectTemplate* in the top right corver of *RStudio* indicating you're working in the correct *RStudio* project. Once setup, follow the instructiosn to complete the tutorial and have a working rmarkdown file/project you can use for every subsequent project you have. 
+
+## Using template for different project
+
+To recycle/repurpose the template, simply rename the folder and the `.Rproj` file. You can then rename any subsequent files to suit your needs. 
 

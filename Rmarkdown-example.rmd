@@ -66,7 +66,7 @@ ggplot(data = airData,
 
 ```
 
-# Task 6: Visualuzations 2: Redux
+# Task 6: Visualizations 2: Redux
 
 Using the same data from [Task 5: Visualizations] create a new plot to visualization a different aspect of your data. 
 

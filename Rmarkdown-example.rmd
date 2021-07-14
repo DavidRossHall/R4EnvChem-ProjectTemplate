@@ -14,24 +14,24 @@ knitr::opts_chunk$set(echo = TRUE,     # by default code will be printed out
 
 # Background
 
-This is an example rmarkdown document you can use to complete the [*R4EnvChem* Tutorial](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html). It showcases some important `rmarkdown` features. Assuming you've downloaded the entire *R4EnvChem* project template, and downloaded the packages listed in [Section 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html), it should work out of the box. Remember, there's the PDF (what you'd hand it/present) and the rmarkdown file (what you use to code and *generate* the PDF); you'll be modifying the latter. 
+This is an example rmarkdown document you can use to complete the [*R4EnvChem* Tutorial](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html). It showcases some important `rmarkdown` features. Assuming you've downloaded the entire *R4EnvChem* project template, and downloaded the packages listed in [Chapter 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html), it should work out of the box. Remember, there's the PDF (what you'd hand it/present) and the rmarkdown file (what you use to code and *generate* the PDF); you'll be modifying the latter. 
 
 
 
 # Task 1: Copying project template
 
-See instructions in [Section 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html) and download a copy of the [*R4EnvChem Project Template*](https://github.com/DavidRossHall/R4EnvChem-ProjectTemplate) onto your computer. 
+See instructions in [Chapter 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html) and download a copy of the [*R4EnvChem Project Template*](https://github.com/DavidRossHall/R4EnvChem-ProjectTemplate) onto your computer. 
 
 
 # Task 2: Installing packages
 
-See instructions in [Section 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html) and install the following packages if you haven't done so already: 
+See instructions in [Chapter 5](https://davidrosshall.github.io/R4EnvChem/r-tutorial-exercise.html) and install the following packages if you haven't done so already: 
 
   - `tidyverse`
   - `rmarkdown`
   - `tinytex`
   
-Verify that you have everything installed by opening the `Rmarkdown-example.rmd` file in *RStudio* and knitting it (*knit* button top right, or see [Section 4](https://davidrosshall.github.io/R4EnvChem/using-r-markdown.html#how-to-run-r-code-in-r-markdown)). You should recreate this exact document. 
+Verify that you have everything installed by opening the `Rmarkdown-example.rmd` file in *RStudio* and knitting it (*knit* button top right, or see [Chapter 4](https://davidrosshall.github.io/R4EnvChem/using-r-markdown.html#how-to-run-r-code-in-r-markdown)). You should recreate this exact document. 
 
 # Task 3: Importing your dataset
 

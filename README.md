@@ -1,6 +1,6 @@
 # R4EnvChem-ProjectTemplate
 
-This repo hosts documents/files related to the (R4EnvChem)[https://davidrosshall.github.io/R4EnvChem/] Section 5 Tutorial. It's essentially a template for R projects that students can modify to suit their needs. 
+This repo hosts documents/files related to the [R4EnvChem](https://davidrosshall.github.io/R4EnvChem/) Section 5 Tutorial. It's essentially a template for R projects that students can modify to suit their needs. 
 
 ## Instructions for downloading template: 
 

@@ -79,3 +79,6 @@ Using the same data from [Task 5: Visualizations] create a new plot to visualiza
 
 ```
 
+# Task 7: Create a PDF
+
+Knit this document into a PDF and save it in your project folder for submission on Quercus. Remember to rename the file to something which appropriately describes your data analysis.
